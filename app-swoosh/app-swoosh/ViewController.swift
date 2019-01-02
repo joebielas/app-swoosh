@@ -21,5 +21,9 @@ class ViewController: UIViewController {
     @IBOutlet weak var swoosh: UIImageView!
     
     @IBOutlet weak var bgimg: UIImageView!
+    
+    @IBAction func unwindFromSkillVC(unwindSegue: UIStoryboardSegue){
+        
+    }
 }
 
